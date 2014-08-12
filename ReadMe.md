@@ -6,8 +6,8 @@ This project is the same from Microchip Library Application, but files are extra
 *How to use*
 ------------
 You need
-	-MPLAB X
-	-XC8 Compiler
+	*MPLAB X
+	*XC8 Compiler
 
 In main.c file there is a function called CustomTask. User code should go in there.
 
@@ -15,5 +15,4 @@ void CustomTask()
 {
 	//User Code goes here
 }
-
 
